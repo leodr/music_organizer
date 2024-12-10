@@ -37,7 +37,7 @@ cd music_organizer
 2. Install required Python packages:
 
 ```bash
-pip install mutagen requests spotipy python-dotenv pydub tqdm
+pip install mutagen requests spotipy python-dotenv pydub tqdm librosa Pillow
 ```
 
 3. Create a `.env` file in the project root with your API credentials:
