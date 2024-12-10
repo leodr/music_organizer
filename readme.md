@@ -30,7 +30,7 @@ proper metadata, cover art, and synchronized Spotify playlists.
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/leodr/music_organizer.git
 cd music_organizer
 ```
 
